@@ -7,7 +7,6 @@ This chatbot should be more dynamic, recognise specific cybersecurity related ke
 It will have sentiment detection enabling the bot to adjust responses based on the users tone, enabling the bot to be more interactive 
 and simulate a natural conversation.
 
-Demo Video: https://youtu.be/bN9njgPFPaw
 
 
 Refrences:
